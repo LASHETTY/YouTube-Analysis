@@ -36,13 +36,13 @@ This project is a YouTube analytics dashboard designed to provide insights into 
 
 ```sh
 # Step 1: Clone the repository
-git clone <>
+git clone <https://github.com/LASHETTY/YouTube-Analysis.git>
 
 # Step 2: Navigate to the project directory
 cd <youtube-analysis-main>
 
 # Step 3: Install dependencies
-npm i
+npm install
 
 # Step 4: Start the development server
 npm run dev
